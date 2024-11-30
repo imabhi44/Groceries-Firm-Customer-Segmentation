@@ -13,8 +13,17 @@
 
 # Introducing New features :  
 ![image](https://github.com/user-attachments/assets/3dd91686-6c0e-4501-b42f-512c7a821796)
+
 There was few outliers in the dataset.
 ![image](https://github.com/user-attachments/assets/0d023502-292d-49d3-95b2-8b92e6b7c6e6)
+
+# Data Preprocessing:
+The following steps I have applied to preprocess the data:
+
+- Label encoding the categorical features
+- Scaling the features using the standard scaler
+- Creating a subset dataframe for dimensionality reduction
+
 
 
 
